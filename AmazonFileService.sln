@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AmazonFileService", "AmazonFileService.csproj", "{BDBFED81-5C3B-41E3-BC4C-88CB97F242B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDBFED81-5C3B-41E3-BC4C-88CB97F242B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDBFED81-5C3B-41E3-BC4C-88CB97F242B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDBFED81-5C3B-41E3-BC4C-88CB97F242B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDBFED81-5C3B-41E3-BC4C-88CB97F242B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CFA69D1-FC5C-4E18-AE21-A90A021B1887}
+	EndGlobalSection
+EndGlobal

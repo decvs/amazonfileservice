@@ -1,0 +1,9 @@
+C:\Users\Christian\Source\Repos\AmazonFileService\obj\Debug\netstandard2.0\AmazonFileService.csprojResolveAssemblyReference.cache
+C:\Users\Christian\Source\Repos\AmazonFileService\obj\Debug\netstandard2.0\AmazonFileService.csproj.CoreCompileInputs.cache
+C:\Users\Christian\Source\Repos\AmazonFileService\obj\Debug\netstandard2.0\AmazonFileService.AssemblyInfoInputs.cache
+C:\Users\Christian\Source\Repos\AmazonFileService\obj\Debug\netstandard2.0\AmazonFileService.AssemblyInfo.cs
+C:\Users\Christian\Source\Repos\AmazonFileService\bin\Debug\netstandard2.0\AmazonFileService.deps.json
+C:\Users\Christian\Source\Repos\AmazonFileService\bin\Debug\netstandard2.0\AmazonFileService.dll
+C:\Users\Christian\Source\Repos\AmazonFileService\bin\Debug\netstandard2.0\AmazonFileService.pdb
+C:\Users\Christian\Source\Repos\AmazonFileService\obj\Debug\netstandard2.0\AmazonFileService.dll
+C:\Users\Christian\Source\Repos\AmazonFileService\obj\Debug\netstandard2.0\AmazonFileService.pdb
